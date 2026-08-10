@@ -8,7 +8,7 @@
 
 - **[procuris.eu](https://procuris.eu)** — AI-powered public tender discovery & bid management platform
 - **[nextoral.com](https://nextoral.com)** — Dental practice management. bookings, patients, treatments & payments in one dashboard
-- **[otterdeploy](https://github.com/artzkaizen/otterdeploy)** — Open-source self-hosted PaaS declarative infrastructure as code with real-time dashboard
+- **[otterdeploy](https://github.com/otterdeploy/otterdeploy)** — Open-source self-hosted PaaS declarative infrastructure as code with real-time dashboard
 - **[dealort](https://github.com/artzkaizen/dealort)** — Deal discovery platform
 - **[rnwa](https://github.com/artzkaizen/rnwa)** — React Native Wi-Fi Aware peer-to-peer device discovery & communication
 
